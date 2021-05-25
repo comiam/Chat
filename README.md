@@ -2,9 +2,9 @@
 Full Chat with Server and Client side with message encryption
 
 ## How to run server
-Run in sh or cmd java -jar ServerSide.jar config.conf
+Go to ClientApp and ServerApp folder and run jar files with README instructions
 
-java of version 11
+use java of version 11
 
 ## Technologies
 In project used:
