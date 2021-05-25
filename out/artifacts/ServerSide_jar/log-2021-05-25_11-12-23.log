@@ -1,0 +1,700 @@
+11:12:23.897 - Starting server threads...
+11:12:23.901 - Loading database...
+11:12:23.901 - In configuration file typed empty database!
+11:12:23.901 - Created empty database.
+11:12:23.908 - Server started on port 8082 with empty database.
+11:12:40.848 - Input Thread: Get connection from: /127.0.0.1
+11:12:40.849 - Input Thread: Connection with /127.0.0.1 is established!
+11:12:40.850 - Input Thread: Receiving a message by /127.0.0.1
+11:12:40.850 - Input Thread: Message by /127.0.0.1 received successfully!
+11:12:40.860 - Input Thread: Receiving a message by /127.0.0.1
+11:12:40.860 - Input Thread: Message by /127.0.0.1 received successfully!
+11:12:40.863 - Input Thread: Receiving a message by /127.0.0.1
+11:12:41.087 - Input Thread: Message by /127.0.0.1 received successfully!
+11:12:41.090 - Backend thread: Client /127.0.0.1 tries to sign up as dd.
+11:12:41.093 - Saving database...
+11:12:41.094 - Input Thread: Receiving a message by /127.0.0.1
+11:12:41.094 - Input Thread: Message by /127.0.0.1 received successfully!
+11:12:41.095 - Backend thread: Client /127.0.0.1 signed up successfully as dd.
+11:12:41.096 - Input Thread: Receiving a message by /127.0.0.1
+11:12:41.096 - Input Thread: Message by /127.0.0.1 received successfully!
+11:12:41.251 - Input Thread: Receiving a message by /127.0.0.1
+11:12:41.251 - Input Thread: Message by /127.0.0.1 received successfully!
+11:12:41.252 - Backend thread: Client /127.0.0.1 tries to init key sharing with server.
+11:12:41.259 - Backend thread: Client /127.0.0.1shared key with server.
+11:12:41.288 - Input Thread: Receiving a message by /127.0.0.1
+11:12:41.288 - Input Thread: Message by /127.0.0.1 received successfully!
+11:12:41.289 - Input Thread: Receiving a message by /127.0.0.1
+11:12:41.289 - Input Thread: Message by /127.0.0.1 received successfully!
+11:12:41.290 - Input Thread: Receiving a message by /127.0.0.1
+11:12:41.290 - Input Thread: Message by /127.0.0.1 received successfully!
+11:12:41.290 - Backend thread: Client /127.0.0.1(dd) tries to get chat list.
+11:12:41.330 - Backend thread: Client /127.0.0.1(dd) successfully got chat list.
+11:12:42.204 - Input Thread: Receiving a message by /127.0.0.1
+11:12:42.204 - Input Thread: Message by /127.0.0.1 received successfully!
+11:12:42.916 - Input Thread: Receiving a message by /127.0.0.1
+11:12:42.916 - Input Thread: Message by /127.0.0.1 received successfully!
+11:12:43.624 - Input Thread: Receiving a message by /127.0.0.1
+11:12:43.624 - Input Thread: Message by /127.0.0.1 received successfully!
+11:12:44.391 - Input Thread: Receiving a message by /127.0.0.1
+11:12:44.391 - Input Thread: Message by /127.0.0.1 received successfully!
+11:12:45.124 - Input Thread: Receiving a message by /127.0.0.1
+11:12:45.124 - Input Thread: Message by /127.0.0.1 received successfully!
+11:12:45.846 - Input Thread: Receiving a message by /127.0.0.1
+11:12:45.846 - Input Thread: Message by /127.0.0.1 received successfully!
+11:12:46.633 - Input Thread: Receiving a message by /127.0.0.1
+11:12:46.633 - Input Thread: Message by /127.0.0.1 received successfully!
+11:12:46.785 - Input Thread: Receiving a message by /127.0.0.1
+11:12:46.786 - Input Thread: Message by /127.0.0.1 received successfully!
+11:12:46.787 - Input Thread: Receiving a message by /127.0.0.1
+11:12:46.787 - Input Thread: Message by /127.0.0.1 received successfully!
+11:12:46.788 - Input Thread: Receiving a message by /127.0.0.1
+11:12:46.788 - Input Thread: Message by /127.0.0.1 received successfully!
+11:12:46.794 - Backend thread: Client /127.0.0.1(dd) tries to create chat chat.
+11:12:46.796 - Saving database...
+11:12:46.917 - Backend thread: Client /127.0.0.1(dd) successfully created chat chat.
+11:12:47.385 - Input Thread: Receiving a message by /127.0.0.1
+11:12:47.385 - Input Thread: Message by /127.0.0.1 received successfully!
+11:12:47.872 - Input Thread: Receiving a message by /127.0.0.1
+11:12:47.873 - Input Thread: Message by /127.0.0.1 received successfully!
+11:12:47.873 - Input Thread: Receiving a message by /127.0.0.1
+11:12:47.874 - Input Thread: Message by /127.0.0.1 received successfully!
+11:12:47.874 - Input Thread: Receiving a message by /127.0.0.1
+11:12:47.874 - Input Thread: Message by /127.0.0.1 received successfully!
+11:12:47.875 - Backend thread: Client /127.0.0.1(dd) tries to get messages from chat chat.
+11:12:47.876 - Backend thread: Client /127.0.0.1(dd) successfully got messages from chat chat.
+11:12:48.126 - Input Thread: Receiving a message by /127.0.0.1
+11:12:48.126 - Input Thread: Message by /127.0.0.1 received successfully!
+11:12:48.895 - Input Thread: Receiving a message by /127.0.0.1
+11:12:48.895 - Input Thread: Message by /127.0.0.1 received successfully!
+11:12:49.617 - Input Thread: Receiving a message by /127.0.0.1
+11:12:49.617 - Input Thread: Message by /127.0.0.1 received successfully!
+11:12:49.752 - Input Thread: Receiving a message by /127.0.0.1
+11:12:49.752 - Input Thread: Message by /127.0.0.1 received successfully!
+11:12:49.753 - Input Thread: Receiving a message by /127.0.0.1
+11:12:49.753 - Input Thread: Message by /127.0.0.1 received successfully!
+11:12:49.754 - Input Thread: Receiving a message by /127.0.0.1
+11:12:49.754 - Input Thread: Message by /127.0.0.1 received successfully!
+11:12:49.754 - Backend thread: Client /127.0.0.1(dd) tries to send message.
+11:12:49.755 - Saving database...
+11:12:49.757 - Backend thread: Client /127.0.0.1(dd) successfully sent message.
+11:12:50.335 - Input Thread: Receiving a message by /127.0.0.1
+11:12:50.335 - Input Thread: Message by /127.0.0.1 received successfully!
+11:12:51.076 - Input Thread: Receiving a message by /127.0.0.1
+11:12:51.076 - Input Thread: Message by /127.0.0.1 received successfully!
+11:12:51.272 - Input Thread: Receiving a message by /127.0.0.1
+11:12:51.272 - Input Thread: Message by /127.0.0.1 received successfully!
+11:12:51.273 - Input Thread: Receiving a message by /127.0.0.1
+11:12:51.273 - Input Thread: Message by /127.0.0.1 received successfully!
+11:12:51.274 - Input Thread: Receiving a message by /127.0.0.1
+11:12:51.274 - Input Thread: Message by /127.0.0.1 received successfully!
+11:12:51.274 - Backend thread: Client /127.0.0.1(dd) tries to send message.
+11:12:51.275 - Saving database...
+11:12:51.276 - Backend thread: Client /127.0.0.1(dd) successfully sent message.
+11:12:51.806 - Input Thread: Receiving a message by /127.0.0.1
+11:12:51.806 - Input Thread: Message by /127.0.0.1 received successfully!
+11:12:52.575 - Input Thread: Receiving a message by /127.0.0.1
+11:12:52.575 - Input Thread: Message by /127.0.0.1 received successfully!
+11:12:53.318 - Input Thread: Receiving a message by /127.0.0.1
+11:12:53.318 - Input Thread: Message by /127.0.0.1 received successfully!
+11:12:54.100 - Input Thread: Receiving a message by /127.0.0.1
+11:12:54.100 - Input Thread: Message by /127.0.0.1 received successfully!
+11:12:54.876 - Input Thread: Receiving a message by /127.0.0.1
+11:12:54.876 - Input Thread: Message by /127.0.0.1 received successfully!
+11:12:55.671 - Input Thread: Receiving a message by /127.0.0.1
+11:12:55.671 - Input Thread: Message by /127.0.0.1 received successfully!
+11:12:56.393 - Input Thread: Receiving a message by /127.0.0.1
+11:12:56.393 - Input Thread: Message by /127.0.0.1 received successfully!
+11:12:57.112 - Input Thread: Receiving a message by /127.0.0.1
+11:12:57.112 - Input Thread: Message by /127.0.0.1 received successfully!
+11:12:57.849 - Input Thread: Receiving a message by /127.0.0.1
+11:12:57.849 - Input Thread: Message by /127.0.0.1 received successfully!
+11:12:58.579 - Input Thread: Receiving a message by /127.0.0.1
+11:12:58.579 - Input Thread: Message by /127.0.0.1 received successfully!
+11:12:59.153 - Input Thread: Get connection from: /127.0.0.1
+11:12:59.153 - Input Thread: Connection with /127.0.0.1 is established!
+11:12:59.154 - Input Thread: Receiving a message by /127.0.0.1
+11:12:59.154 - Input Thread: Message by /127.0.0.1 received successfully!
+11:12:59.157 - Input Thread: Receiving a message by /127.0.0.1
+11:12:59.157 - Input Thread: Message by /127.0.0.1 received successfully!
+11:12:59.159 - Input Thread: Receiving a message by /127.0.0.1
+11:12:59.159 - Input Thread: Message by /127.0.0.1 received successfully!
+11:12:59.159 - Backend thread: Client /127.0.0.1 tries to sign up as ccc.
+11:12:59.160 - Saving database...
+11:12:59.160 - Input Thread: Receiving a message by /127.0.0.1
+11:12:59.160 - Input Thread: Message by /127.0.0.1 received successfully!
+11:12:59.161 - Backend thread: Client /127.0.0.1 signed up successfully as ccc.
+11:12:59.161 - Input Thread: Receiving a message by /127.0.0.1
+11:12:59.161 - Input Thread: Message by /127.0.0.1 received successfully!
+11:12:59.296 - Input Thread: Receiving a message by /127.0.0.1
+11:12:59.296 - Input Thread: Message by /127.0.0.1 received successfully!
+11:12:59.326 - Input Thread: Receiving a message by /127.0.0.1
+11:12:59.326 - Input Thread: Message by /127.0.0.1 received successfully!
+11:12:59.326 - Backend thread: Client /127.0.0.1 tries to init key sharing with server.
+11:12:59.329 - Backend thread: Client /127.0.0.1shared key with server.
+11:12:59.353 - Input Thread: Receiving a message by /127.0.0.1
+11:12:59.353 - Input Thread: Message by /127.0.0.1 received successfully!
+11:12:59.354 - Input Thread: Receiving a message by /127.0.0.1
+11:12:59.354 - Input Thread: Message by /127.0.0.1 received successfully!
+11:12:59.354 - Input Thread: Receiving a message by /127.0.0.1
+11:12:59.355 - Input Thread: Message by /127.0.0.1 received successfully!
+11:12:59.355 - Backend thread: Client /127.0.0.1(ccc) tries to get chat list.
+11:12:59.355 - Backend thread: Client /127.0.0.1(ccc) successfully got chat list.
+11:13:00.018 - Input Thread: Receiving a message by /127.0.0.1
+11:13:00.018 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:00.251 - Input Thread: Receiving a message by /127.0.0.1
+11:13:00.251 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:00.752 - Input Thread: Receiving a message by /127.0.0.1
+11:13:00.752 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:00.753 - Input Thread: Receiving a message by /127.0.0.1
+11:13:00.753 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:00.754 - Input Thread: Receiving a message by /127.0.0.1
+11:13:00.754 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:00.754 - Backend thread: Client /127.0.0.1(ccc) tries to get messages from chat chat.
+11:13:00.755 - Backend server: User ccc not exist in chat chat!
+11:13:00.758 - Input Thread: Receiving a message by /127.0.0.1
+11:13:00.758 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:00.759 - Input Thread: Receiving a message by /127.0.0.1
+11:13:00.759 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:00.760 - Input Thread: Receiving a message by /127.0.0.1
+11:13:00.760 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:00.760 - Input Thread: Receiving a message by /127.0.0.1
+11:13:00.760 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:00.761 - Backend thread: Client /127.0.0.1(ccc) tries to connect to chat chat.
+11:13:00.762 - Input Thread: Receiving a message by /127.0.0.1
+11:13:00.762 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:00.762 - Saving database...
+11:13:00.763 - Backend thread: Client /127.0.0.1(ccc) successfully connected to chat chat.
+11:13:00.764 - Input Thread: Receiving a message by /127.0.0.1
+11:13:00.764 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:00.765 - Input Thread: Receiving a message by /127.0.0.1
+11:13:00.765 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:00.765 - Backend thread: Client /127.0.0.1(ccc) tries to get chat list.
+11:13:00.765 - Backend thread: Client /127.0.0.1(ccc) successfully got chat list.
+11:13:00.767 - Input Thread: Receiving a message by /127.0.0.1
+11:13:00.767 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:00.768 - Input Thread: Receiving a message by /127.0.0.1
+11:13:00.768 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:00.768 - Input Thread: Receiving a message by /127.0.0.1
+11:13:00.768 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:00.769 - Backend thread: Client /127.0.0.1(ccc) tries to get messages from chat chat.
+11:13:00.769 - Backend thread: Client /127.0.0.1(ccc) successfully got messages from chat chat.
+11:13:00.778 - Input Thread: Receiving a message by /127.0.0.1
+11:13:00.778 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:00.986 - Input Thread: Receiving a message by /127.0.0.1
+11:13:00.986 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:01.491 - Input Thread: Receiving a message by /127.0.0.1
+11:13:01.491 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:01.711 - Input Thread: Receiving a message by /127.0.0.1
+11:13:01.711 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:02.253 - Input Thread: Receiving a message by /127.0.0.1
+11:13:02.253 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:02.457 - Input Thread: Receiving a message by /127.0.0.1
+11:13:02.457 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:02.962 - Input Thread: Receiving a message by /127.0.0.1
+11:13:02.962 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:03.170 - Input Thread: Receiving a message by /127.0.0.1
+11:13:03.170 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:03.666 - Input Thread: Receiving a message by /127.0.0.1
+11:13:03.666 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:03.672 - Input Thread: Receiving a message by /127.0.0.1
+11:13:03.672 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:03.673 - Input Thread: Receiving a message by /127.0.0.1
+11:13:03.673 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:03.674 - Input Thread: Receiving a message by /127.0.0.1
+11:13:03.674 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:03.674 - Backend thread: Client /127.0.0.1(ccc) tries to send message.
+11:13:03.676 - Saving database...
+11:13:03.677 - Backend thread: Client /127.0.0.1(ccc) successfully sent message.
+11:13:03.886 - Input Thread: Receiving a message by /127.0.0.1
+11:13:03.886 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:04.430 - Input Thread: Receiving a message by /127.0.0.1
+11:13:04.430 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:04.656 - Input Thread: Receiving a message by /127.0.0.1
+11:13:04.656 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:05.184 - Input Thread: Receiving a message by /127.0.0.1
+11:13:05.184 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:05.410 - Input Thread: Receiving a message by /127.0.0.1
+11:13:05.410 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:05.933 - Input Thread: Receiving a message by /127.0.0.1
+11:13:05.933 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:06.153 - Input Thread: Receiving a message by /127.0.0.1
+11:13:06.153 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:06.706 - Input Thread: Receiving a message by /127.0.0.1
+11:13:06.706 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:06.923 - Input Thread: Receiving a message by /127.0.0.1
+11:13:06.923 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:07.471 - Input Thread: Receiving a message by /127.0.0.1
+11:13:07.471 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:07.705 - Input Thread: Receiving a message by /127.0.0.1
+11:13:07.705 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:08.237 - Input Thread: Receiving a message by /127.0.0.1
+11:13:08.237 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:08.484 - Input Thread: Receiving a message by /127.0.0.1
+11:13:08.484 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:09.032 - Input Thread: Receiving a message by /127.0.0.1
+11:13:09.032 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:09.259 - Input Thread: Receiving a message by /127.0.0.1
+11:13:09.259 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:09.780 - Input Thread: Receiving a message by /127.0.0.1
+11:13:09.780 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:09.994 - Input Thread: Receiving a message by /127.0.0.1
+11:13:09.994 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:10.504 - Input Thread: Receiving a message by /127.0.0.1
+11:13:10.504 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:10.715 - Input Thread: Receiving a message by /127.0.0.1
+11:13:10.715 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:10.752 - Input Thread: Receiving a message by /127.0.0.1
+11:13:10.752 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:10.753 - Input Thread: Receiving a message by /127.0.0.1
+11:13:10.753 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:10.753 - Input Thread: Receiving a message by /127.0.0.1
+11:13:10.753 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:10.753 - Backend thread: Client /127.0.0.1(ccc) tries to send message.
+11:13:10.755 - Saving database...
+11:13:10.755 - Backend thread: Client /127.0.0.1(ccc) successfully sent message.
+11:13:11.233 - Input Thread: Receiving a message by /127.0.0.1
+11:13:11.233 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:11.460 - Input Thread: Receiving a message by /127.0.0.1
+11:13:11.460 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:11.496 - Input Thread: Receiving a message by /127.0.0.1
+11:13:11.496 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:11.496 - Input Thread: Receiving a message by /127.0.0.1
+11:13:11.497 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:11.497 - Input Thread: Receiving a message by /127.0.0.1
+11:13:11.497 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:11.497 - Backend thread: Client /127.0.0.1(ccc) tries to send message.
+11:13:11.499 - Saving database...
+11:13:11.499 - Backend thread: Client /127.0.0.1(ccc) successfully sent message.
+11:13:11.968 - Input Thread: Receiving a message by /127.0.0.1
+11:13:11.968 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:12.196 - Input Thread: Receiving a message by /127.0.0.1
+11:13:12.196 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:12.733 - Input Thread: Receiving a message by /127.0.0.1
+11:13:12.733 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:12.950 - Input Thread: Receiving a message by /127.0.0.1
+11:13:12.950 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:13.336 - Input Thread: Receiving a message by /127.0.0.1
+11:13:13.336 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:13.337 - Input Thread: Receiving a message by /127.0.0.1
+11:13:13.337 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:13.337 - Input Thread: Receiving a message by /127.0.0.1
+11:13:13.338 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:13.338 - Backend thread: Client /127.0.0.1(dd) tries to send message.
+11:13:13.339 - Saving database...
+11:13:13.339 - Backend thread: Client /127.0.0.1(dd) successfully sent message.
+11:13:13.484 - Input Thread: Receiving a message by /127.0.0.1
+11:13:13.484 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:13.699 - Input Thread: Receiving a message by /127.0.0.1
+11:13:13.699 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:14.225 - Input Thread: Receiving a message by /127.0.0.1
+11:13:14.225 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:14.400 - Input Thread: Receiving a message by /127.0.0.1
+11:13:14.400 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:14.400 - Input Thread: Receiving a message by /127.0.0.1
+11:13:14.400 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:14.401 - Input Thread: Receiving a message by /127.0.0.1
+11:13:14.401 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:14.401 - Backend thread: Client /127.0.0.1(dd) tries to send message.
+11:13:14.402 - Saving database...
+11:13:14.403 - Backend thread: Client /127.0.0.1(dd) successfully sent message.
+11:13:14.445 - Input Thread: Receiving a message by /127.0.0.1
+11:13:14.446 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:14.964 - Input Thread: Receiving a message by /127.0.0.1
+11:13:14.964 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:15.208 - Input Thread: Receiving a message by /127.0.0.1
+11:13:15.208 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:15.756 - Input Thread: Receiving a message by /127.0.0.1
+11:13:15.756 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:15.978 - Input Thread: Receiving a message by /127.0.0.1
+11:13:15.978 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:16.544 - Input Thread: Receiving a message by /127.0.0.1
+11:13:16.544 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:16.776 - Input Thread: Receiving a message by /127.0.0.1
+11:13:16.776 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:17.128 - Input Thread: Receiving a message by /127.0.0.1
+11:13:17.128 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:17.129 - Input Thread: Receiving a message by /127.0.0.1
+11:13:17.129 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:17.129 - Input Thread: Receiving a message by /127.0.0.1
+11:13:17.129 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:17.130 - Backend thread: Client /127.0.0.1(ccc) tries to disconnect.
+11:13:17.130 - Backend thread: Client /127.0.0.1(ccc) successfully disconnected.
+11:13:17.338 - Input Thread: Receiving a message by /127.0.0.1
+11:13:17.338 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:17.803 - Input Thread: Receiving a message by /127.0.0.1
+11:13:17.803 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:17.804 - Input Thread: Receiving a message by /127.0.0.1
+11:13:17.804 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:17.804 - Input Thread: Receiving a message by /127.0.0.1
+11:13:17.804 - Input Thread: Message by /127.0.0.1 received successfully!
+11:13:17.805 - Backend thread: Client /127.0.0.1(dd) tries to disconnect.
+11:13:17.805 - Backend thread: Client /127.0.0.1(dd) successfully disconnected.
+11:18:09.635 - Input Thread: Get connection from: /127.0.0.1
+11:18:09.635 - Input Thread: Connection with /127.0.0.1 is established!
+11:18:09.635 - Input Thread: Receiving a message by /127.0.0.1
+11:18:09.635 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:09.638 - Input Thread: Receiving a message by /127.0.0.1
+11:18:09.638 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:09.640 - Input Thread: Receiving a message by /127.0.0.1
+11:18:09.640 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:09.640 - Backend thread: Client /127.0.0.1 tries to sign up as ddwdw.
+11:18:09.640 - Saving database...
+11:18:09.641 - Input Thread: Receiving a message by /127.0.0.1
+11:18:09.641 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:09.641 - Backend thread: Client /127.0.0.1 signed up successfully as ddwdw.
+11:18:09.642 - Input Thread: Receiving a message by /127.0.0.1
+11:18:09.642 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:09.795 - Input Thread: Receiving a message by /127.0.0.1
+11:18:09.795 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:09.795 - Backend thread: Client /127.0.0.1 tries to init key sharing with server.
+11:18:09.796 - Backend thread: Client /127.0.0.1shared key with server.
+11:18:09.820 - Input Thread: Receiving a message by /127.0.0.1
+11:18:09.820 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:09.821 - Input Thread: Receiving a message by /127.0.0.1
+11:18:09.821 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:09.821 - Input Thread: Receiving a message by /127.0.0.1
+11:18:09.821 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:09.822 - Backend thread: Client /127.0.0.1(ddwdw) tries to get chat list.
+11:18:09.822 - Backend thread: Client /127.0.0.1(ddwdw) successfully got chat list.
+11:18:10.745 - Input Thread: Receiving a message by /127.0.0.1
+11:18:10.745 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:11.517 - Input Thread: Receiving a message by /127.0.0.1
+11:18:11.517 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:12.326 - Input Thread: Receiving a message by /127.0.0.1
+11:18:12.326 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:13.098 - Input Thread: Receiving a message by /127.0.0.1
+11:18:13.098 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:13.860 - Input Thread: Receiving a message by /127.0.0.1
+11:18:13.860 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:14.581 - Input Thread: Receiving a message by /127.0.0.1
+11:18:14.581 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:15.358 - Input Thread: Receiving a message by /127.0.0.1
+11:18:15.358 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:16.124 - Input Thread: Receiving a message by /127.0.0.1
+11:18:16.124 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:16.879 - Input Thread: Receiving a message by /127.0.0.1
+11:18:16.879 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:17.620 - Input Thread: Receiving a message by /127.0.0.1
+11:18:17.620 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:18.360 - Input Thread: Receiving a message by /127.0.0.1
+11:18:18.360 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:19.096 - Input Thread: Receiving a message by /127.0.0.1
+11:18:19.096 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:19.853 - Input Thread: Receiving a message by /127.0.0.1
+11:18:19.853 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:20.617 - Input Thread: Receiving a message by /127.0.0.1
+11:18:20.617 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:21.368 - Input Thread: Receiving a message by /127.0.0.1
+11:18:21.368 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:21.483 - Input Thread: Get connection from: /127.0.0.1
+11:18:21.483 - Input Thread: Connection with /127.0.0.1 is established!
+11:18:21.483 - Input Thread: Receiving a message by /127.0.0.1
+11:18:21.484 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:21.487 - Input Thread: Receiving a message by /127.0.0.1
+11:18:21.487 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:21.488 - Input Thread: Receiving a message by /127.0.0.1
+11:18:21.488 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:21.488 - Backend thread: Client /127.0.0.1 tries to sign up as qwdqwd.
+11:18:21.488 - Saving database...
+11:18:21.489 - Input Thread: Receiving a message by /127.0.0.1
+11:18:21.489 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:21.489 - Backend thread: Client /127.0.0.1 signed up successfully as qwdqwd.
+11:18:21.490 - Input Thread: Receiving a message by /127.0.0.1
+11:18:21.490 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:21.659 - Input Thread: Receiving a message by /127.0.0.1
+11:18:21.659 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:21.659 - Backend thread: Client /127.0.0.1 tries to init key sharing with server.
+11:18:21.660 - Backend thread: Client /127.0.0.1shared key with server.
+11:18:21.684 - Input Thread: Receiving a message by /127.0.0.1
+11:18:21.684 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:21.685 - Input Thread: Receiving a message by /127.0.0.1
+11:18:21.685 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:21.686 - Input Thread: Receiving a message by /127.0.0.1
+11:18:21.686 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:21.686 - Backend thread: Client /127.0.0.1(qwdqwd) tries to get chat list.
+11:18:21.687 - Backend thread: Client /127.0.0.1(qwdqwd) successfully got chat list.
+11:18:22.118 - Input Thread: Receiving a message by /127.0.0.1
+11:18:22.118 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:22.625 - Input Thread: Receiving a message by /127.0.0.1
+11:18:22.625 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:22.934 - Input Thread: Receiving a message by /127.0.0.1
+11:18:22.934 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:23.002 - Input Thread: Receiving a message by /127.0.0.1
+11:18:23.002 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:23.003 - Input Thread: Receiving a message by /127.0.0.1
+11:18:23.003 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:23.004 - Input Thread: Receiving a message by /127.0.0.1
+11:18:23.004 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:23.004 - Backend thread: Client /127.0.0.1(ddwdw) tries to get messages from chat chat.
+11:18:23.004 - Backend server: User ddwdw not exist in chat chat!
+11:18:23.006 - Input Thread: Receiving a message by /127.0.0.1
+11:18:23.006 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:23.006 - Input Thread: Receiving a message by /127.0.0.1
+11:18:23.007 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:23.007 - Input Thread: Receiving a message by /127.0.0.1
+11:18:23.007 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:23.007 - Input Thread: Receiving a message by /127.0.0.1
+11:18:23.007 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:23.008 - Backend thread: Client /127.0.0.1(ddwdw) tries to connect to chat chat.
+11:18:23.008 - Saving database...
+11:18:23.008 - Input Thread: Receiving a message by /127.0.0.1
+11:18:23.008 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:23.009 - Backend thread: Client /127.0.0.1(ddwdw) successfully connected to chat chat.
+11:18:23.009 - Input Thread: Receiving a message by /127.0.0.1
+11:18:23.009 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:23.010 - Input Thread: Receiving a message by /127.0.0.1
+11:18:23.010 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:23.010 - Backend thread: Client /127.0.0.1(ddwdw) tries to get chat list.
+11:18:23.010 - Backend thread: Client /127.0.0.1(ddwdw) successfully got chat list.
+11:18:23.012 - Input Thread: Receiving a message by /127.0.0.1
+11:18:23.012 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:23.013 - Input Thread: Receiving a message by /127.0.0.1
+11:18:23.013 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:23.013 - Input Thread: Receiving a message by /127.0.0.1
+11:18:23.014 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:23.014 - Backend thread: Client /127.0.0.1(ddwdw) tries to get messages from chat chat.
+11:18:23.014 - Backend thread: Client /127.0.0.1(ddwdw) successfully got messages from chat chat.
+11:18:23.430 - Input Thread: Receiving a message by /127.0.0.1
+11:18:23.430 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:23.727 - Input Thread: Receiving a message by /127.0.0.1
+11:18:23.727 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:23.831 - Input Thread: Receiving a message by /127.0.0.1
+11:18:23.831 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:23.832 - Input Thread: Receiving a message by /127.0.0.1
+11:18:23.832 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:23.833 - Input Thread: Receiving a message by /127.0.0.1
+11:18:23.833 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:23.833 - Backend thread: Client /127.0.0.1(qwdqwd) tries to get messages from chat chat.
+11:18:23.833 - Backend server: User qwdqwd not exist in chat chat!
+11:18:23.835 - Input Thread: Receiving a message by /127.0.0.1
+11:18:23.835 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:23.836 - Input Thread: Receiving a message by /127.0.0.1
+11:18:23.836 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:23.837 - Input Thread: Receiving a message by /127.0.0.1
+11:18:23.837 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:23.837 - Input Thread: Receiving a message by /127.0.0.1
+11:18:23.837 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:23.838 - Backend thread: Client /127.0.0.1(qwdqwd) tries to connect to chat chat.
+11:18:23.839 - Saving database...
+11:18:23.839 - Input Thread: Receiving a message by /127.0.0.1
+11:18:23.839 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:23.839 - Backend thread: Client /127.0.0.1(qwdqwd) successfully connected to chat chat.
+11:18:23.840 - Input Thread: Receiving a message by /127.0.0.1
+11:18:23.840 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:23.840 - Input Thread: Receiving a message by /127.0.0.1
+11:18:23.840 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:23.841 - Backend thread: Client /127.0.0.1(qwdqwd) tries to get chat list.
+11:18:23.841 - Backend thread: Client /127.0.0.1(qwdqwd) successfully got chat list.
+11:18:23.843 - Input Thread: Receiving a message by /127.0.0.1
+11:18:23.843 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:23.843 - Input Thread: Receiving a message by /127.0.0.1
+11:18:23.843 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:23.843 - Input Thread: Receiving a message by /127.0.0.1
+11:18:23.844 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:23.844 - Backend thread: Client /127.0.0.1(qwdqwd) tries to get messages from chat chat.
+11:18:23.844 - Backend thread: Client /127.0.0.1(qwdqwd) successfully got messages from chat chat.
+11:18:24.193 - Input Thread: Receiving a message by /127.0.0.1
+11:18:24.193 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:24.490 - Input Thread: Receiving a message by /127.0.0.1
+11:18:24.490 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:24.971 - Input Thread: Receiving a message by /127.0.0.1
+11:18:24.971 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:25.280 - Input Thread: Receiving a message by /127.0.0.1
+11:18:25.280 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:25.727 - Input Thread: Receiving a message by /127.0.0.1
+11:18:25.727 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:26.012 - Input Thread: Receiving a message by /127.0.0.1
+11:18:26.012 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:26.275 - Input Thread: Receiving a message by /127.0.0.1
+11:18:26.275 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:26.275 - Input Thread: Receiving a message by /127.0.0.1
+11:18:26.275 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:26.276 - Input Thread: Receiving a message by /127.0.0.1
+11:18:26.276 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:26.277 - Backend thread: Client /127.0.0.1(qwdqwd) tries to send message.
+11:18:26.277 - Saving database...
+11:18:26.278 - Backend thread: Client /127.0.0.1(qwdqwd) successfully sent message.
+11:18:26.465 - Input Thread: Receiving a message by /127.0.0.1
+11:18:26.465 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:26.744 - Input Thread: Receiving a message by /127.0.0.1
+11:18:26.744 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:27.206 - Input Thread: Receiving a message by /127.0.0.1
+11:18:27.206 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:27.490 - Input Thread: Receiving a message by /127.0.0.1
+11:18:27.490 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:27.491 - Input Thread: Receiving a message by /127.0.0.1
+11:18:27.491 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:27.491 - Input Thread: Receiving a message by /127.0.0.1
+11:18:27.491 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:27.492 - Input Thread: Receiving a message by /127.0.0.1
+11:18:27.492 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:27.492 - Backend thread: Client /127.0.0.1(qwdqwd) tries to send message.
+11:18:27.493 - Saving database...
+11:18:27.493 - Backend thread: Client /127.0.0.1(qwdqwd) successfully sent message.
+11:18:27.938 - Input Thread: Receiving a message by /127.0.0.1
+11:18:27.938 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:28.243 - Input Thread: Receiving a message by /127.0.0.1
+11:18:28.243 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:28.704 - Input Thread: Receiving a message by /127.0.0.1
+11:18:28.704 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:28.990 - Input Thread: Receiving a message by /127.0.0.1
+11:18:28.990 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:29.438 - Input Thread: Receiving a message by /127.0.0.1
+11:18:29.438 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:29.716 - Input Thread: Receiving a message by /127.0.0.1
+11:18:29.716 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:30.147 - Input Thread: Receiving a message by /127.0.0.1
+11:18:30.147 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:30.425 - Input Thread: Receiving a message by /127.0.0.1
+11:18:30.425 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:30.876 - Input Thread: Receiving a message by /127.0.0.1
+11:18:30.876 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:31.144 - Input Thread: Receiving a message by /127.0.0.1
+11:18:31.144 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:31.588 - Input Thread: Receiving a message by /127.0.0.1
+11:18:31.588 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:31.706 - Input Thread: Receiving a message by /127.0.0.1
+11:18:31.707 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:31.707 - Input Thread: Receiving a message by /127.0.0.1
+11:18:31.707 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:31.708 - Input Thread: Receiving a message by /127.0.0.1
+11:18:31.708 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:31.708 - Backend thread: Client /127.0.0.1(ddwdw) tries to send message.
+11:18:31.709 - Saving database...
+11:18:31.710 - Backend thread: Client /127.0.0.1(ddwdw) successfully sent message.
+11:18:31.877 - Input Thread: Receiving a message by /127.0.0.1
+11:18:31.877 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:32.311 - Input Thread: Receiving a message by /127.0.0.1
+11:18:32.311 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:32.593 - Input Thread: Receiving a message by /127.0.0.1
+11:18:32.593 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:33.070 - Input Thread: Receiving a message by /127.0.0.1
+11:18:33.070 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:33.355 - Input Thread: Receiving a message by /127.0.0.1
+11:18:33.355 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:33.860 - Input Thread: Receiving a message by /127.0.0.1
+11:18:33.860 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:34.140 - Input Thread: Receiving a message by /127.0.0.1
+11:18:34.140 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:34.620 - Input Thread: Receiving a message by /127.0.0.1
+11:18:34.620 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:34.933 - Input Thread: Receiving a message by /127.0.0.1
+11:18:34.933 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:35.398 - Input Thread: Receiving a message by /127.0.0.1
+11:18:35.398 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:35.675 - Input Thread: Receiving a message by /127.0.0.1
+11:18:35.675 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:36.148 - Input Thread: Receiving a message by /127.0.0.1
+11:18:36.148 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:36.445 - Input Thread: Receiving a message by /127.0.0.1
+11:18:36.445 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:36.898 - Input Thread: Receiving a message by /127.0.0.1
+11:18:36.898 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:36.974 - Input Thread: Receiving a message by /127.0.0.1
+11:18:36.974 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:36.975 - Input Thread: Receiving a message by /127.0.0.1
+11:18:36.975 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:36.975 - Input Thread: Receiving a message by /127.0.0.1
+11:18:36.975 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:36.975 - Backend thread: Client /127.0.0.1(ddwdw) tries to create chat qwd.
+11:18:36.976 - Saving database...
+11:18:36.977 - Backend thread: Client /127.0.0.1(ddwdw) successfully created chat qwd.
+11:18:37.170 - Input Thread: Receiving a message by /127.0.0.1
+11:18:37.170 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:37.613 - Input Thread: Receiving a message by /127.0.0.1
+11:18:37.613 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:37.927 - Input Thread: Receiving a message by /127.0.0.1
+11:18:37.927 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:38.240 - Input Thread: Receiving a message by /127.0.0.1
+11:18:38.240 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:38.241 - Input Thread: Receiving a message by /127.0.0.1
+11:18:38.241 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:38.241 - Input Thread: Receiving a message by /127.0.0.1
+11:18:38.241 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:38.242 - Backend thread: Client /127.0.0.1(qwdqwd) tries to get messages from chat qwd.
+11:18:38.242 - Backend server: User qwdqwd not exist in chat qwd!
+11:18:38.242 - Input Thread: Receiving a message by /127.0.0.1
+11:18:38.242 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:38.243 - Input Thread: Receiving a message by /127.0.0.1
+11:18:38.243 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:38.244 - Input Thread: Receiving a message by /127.0.0.1
+11:18:38.244 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:38.244 - Input Thread: Receiving a message by /127.0.0.1
+11:18:38.244 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:38.244 - Backend thread: Client /127.0.0.1(qwdqwd) tries to connect to chat qwd.
+11:18:38.245 - Saving database...
+11:18:38.245 - Input Thread: Receiving a message by /127.0.0.1
+11:18:38.245 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:38.246 - Backend thread: Client /127.0.0.1(qwdqwd) successfully connected to chat qwd.
+11:18:38.246 - Input Thread: Receiving a message by /127.0.0.1
+11:18:38.246 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:38.247 - Input Thread: Receiving a message by /127.0.0.1
+11:18:38.247 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:38.247 - Backend thread: Client /127.0.0.1(qwdqwd) tries to get chat list.
+11:18:38.247 - Backend thread: Client /127.0.0.1(qwdqwd) successfully got chat list.
+11:18:38.249 - Input Thread: Receiving a message by /127.0.0.1
+11:18:38.249 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:38.250 - Input Thread: Receiving a message by /127.0.0.1
+11:18:38.250 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:38.250 - Input Thread: Receiving a message by /127.0.0.1
+11:18:38.250 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:38.250 - Backend thread: Client /127.0.0.1(qwdqwd) tries to get messages from chat qwd.
+11:18:38.250 - Backend thread: Client /127.0.0.1(qwdqwd) successfully got messages from chat qwd.
+11:18:38.382 - Input Thread: Receiving a message by /127.0.0.1
+11:18:38.382 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:38.659 - Input Thread: Receiving a message by /127.0.0.1
+11:18:38.659 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:39.155 - Input Thread: Receiving a message by /127.0.0.1
+11:18:39.155 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:39.447 - Input Thread: Receiving a message by /127.0.0.1
+11:18:39.447 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:39.627 - Input Thread: Receiving a message by /127.0.0.1
+11:18:39.627 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:39.627 - Input Thread: Receiving a message by /127.0.0.1
+11:18:39.627 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:39.628 - Input Thread: Receiving a message by /127.0.0.1
+11:18:39.628 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:39.628 - Backend thread: Client /127.0.0.1(ddwdw) tries to get messages from chat qwd.
+11:18:39.628 - Backend thread: Client /127.0.0.1(ddwdw) successfully got messages from chat qwd.
+11:18:39.922 - Input Thread: Receiving a message by /127.0.0.1
+11:18:39.922 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:40.194 - Input Thread: Receiving a message by /127.0.0.1
+11:18:40.194 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:40.644 - Input Thread: Receiving a message by /127.0.0.1
+11:18:40.644 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:40.875 - Input Thread: Receiving a message by /127.0.0.1
+11:18:40.875 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:40.875 - Input Thread: Receiving a message by /127.0.0.1
+11:18:40.875 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:40.876 - Input Thread: Receiving a message by /127.0.0.1
+11:18:40.876 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:40.876 - Backend thread: Client /127.0.0.1(ddwdw) tries to send message.
+11:18:40.877 - Saving database...
+11:18:40.878 - Backend thread: Client /127.0.0.1(ddwdw) successfully sent message.
+11:18:40.917 - Input Thread: Receiving a message by /127.0.0.1
+11:18:40.917 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:41.366 - Input Thread: Receiving a message by /127.0.0.1
+11:18:41.366 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:41.650 - Input Thread: Receiving a message by /127.0.0.1
+11:18:41.650 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:42.156 - Input Thread: Receiving a message by /127.0.0.1
+11:18:42.156 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:42.390 - Input Thread: Receiving a message by /127.0.0.1
+11:18:42.390 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:42.391 - Input Thread: Receiving a message by /127.0.0.1
+11:18:42.391 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:42.391 - Input Thread: Receiving a message by /127.0.0.1
+11:18:42.391 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:42.391 - Backend thread: Client /127.0.0.1(qwdqwd) tries to disconnect.
+11:18:42.391 - Backend thread: Client /127.0.0.1(qwdqwd) successfully disconnected.
+11:18:42.441 - Input Thread: Receiving a message by /127.0.0.1
+11:18:42.441 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:43.134 - Input Thread: Receiving a message by /127.0.0.1
+11:18:43.135 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:43.135 - Input Thread: Receiving a message by /127.0.0.1
+11:18:43.135 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:43.136 - Input Thread: Receiving a message by /127.0.0.1
+11:18:43.136 - Input Thread: Message by /127.0.0.1 received successfully!
+11:18:43.136 - Backend thread: Client /127.0.0.1(ddwdw) tries to disconnect.
+11:18:43.136 - Backend thread: Client /127.0.0.1(ddwdw) successfully disconnected.
